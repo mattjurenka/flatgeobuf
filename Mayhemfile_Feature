@@ -1,0 +1,5 @@
+project: flatgeobuf
+target: feature
+
+cmds:
+    - cmd: /feature

@@ -1,0 +1,5 @@
+project: flatgeobuf
+target: read
+
+cmds:
+    - cmd: /read
