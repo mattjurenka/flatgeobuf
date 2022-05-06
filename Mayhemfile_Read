@@ -1,5 +1,6 @@
 project: flatgeobuf
 target: read
+duration: 90
 
 cmds:
     - cmd: /read

@@ -1,5 +1,6 @@
 project: flatgeobuf
 target: feature
+duration: 90
 
 cmds:
     - cmd: /feature
